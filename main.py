@@ -48,7 +48,7 @@ industry = [
     "Petroleum industry"
 ]
 START: str = "2016-1-1"
-END: str = "2023-12-30"
+END: str = "2023-12-31"
 PATH: Path = Path("data")
 
 
